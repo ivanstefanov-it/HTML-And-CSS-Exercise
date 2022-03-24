@@ -1,0 +1,11 @@
+/* .(dot) is for "class"*/
+/* # is for "id"*/
+/* tag(div, p, span...) is for all tags like div, p, span...*/
+div{
+    border: 2px dotted blue;
+    padding: 2px
+}
+
+body{
+    background: aqua;
+}
