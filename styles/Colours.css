@@ -1,0 +1,23 @@
+body{
+    font: 18px/1.5 Tahoma;
+    background-color: #47A;
+    color: #CCC;
+}
+
+.column{
+    max-width: 66ch;
+    margin: auto;
+}
+
+h1, h2{
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+a{
+ color: orange;
+}
+
+a:hover{
+    color: black;
+}

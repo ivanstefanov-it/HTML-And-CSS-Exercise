@@ -1,0 +1,12 @@
+body{
+    font: 18px/1.5 Tahoma;
+}
+
+.column{
+    max-width: 66ch;
+    margin: auto;
+}
+
+h1, h2{
+    font-family: Georgia, serif;
+}
